@@ -3,6 +3,7 @@ package com.headhill.javastudy.lambda;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.IntPredicate;
 import java.util.function.Predicate;
 
 public class PredicateExamples {
@@ -19,6 +20,8 @@ public class PredicateExamples {
     }
 
     static Predicate<String> myStringFilter = (s) -> s.startsWith("ww");
+
+    IntPredicate intPred = i -> (i % 2)== 0;
 
     public static void main(String[] args) {
         filter(Arrays.asList("ali", "wwedf", "sdfsdfs", "vfg"), myStringFilter);

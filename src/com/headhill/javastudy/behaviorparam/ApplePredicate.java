@@ -1,4 +1,4 @@
-package com.headhill.javastudy.methodref;
+package com.headhill.javastudy.behaviorparam;
 
 @FunctionalInterface
 public interface ApplePredicate {

@@ -1,11 +1,11 @@
-package com.headhill.javastudy.methodref;
+package com.headhill.javastudy.behaviorparam;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static com.headhill.javastudy.methodref.Color.GREEN;
-import static com.headhill.javastudy.methodref.Color.RED;
+import static com.headhill.javastudy.behaviorparam.Color.GREEN;
+import static com.headhill.javastudy.behaviorparam.Color.RED;
 
 public class AppleMain {
     static List<Apple> myInventory = Arrays.asList(new Apple(80.0, GREEN),
@@ -25,6 +25,7 @@ public class AppleMain {
 
     public static void main(String[] args) {
         List<Apple> redApples = filterApples(myInventory, (Apple a) -> a.getColor().equals(RED));
+        List<Apple> heavyApples = filterApples(myInventory, new AppleHeavyWeightPredicate());
         System.out.println("redApples = " + redApples);
         redApples.sort((Apple a1, Apple a2) -> a1.getWeight().compareTo(a2.getWeight()));
         Thread t = new Thread(() -> System.out.println("guku"));
