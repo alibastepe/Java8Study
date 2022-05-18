@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f948278-70e9-4e93-8065-b4bb5bd30207" name="Changes" comment="Stream collect examples are added.">
+      <change afterPath="$PROJECT_DIR$/src/com/headhill/javastudy/optional/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/headhill/javastudy/optional/CombineOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/headhill/javastudy/optional/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/headhill/javastudy/optional/OptionalStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/headhill/javastudy/optional/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27Q4CdIL9NkK3aKCeS5ptIWi7d9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/lombok.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.headhill.javastudy.behaviorparam.AppleMain" />
+      <module name="Java8Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.headhill.javastudy.methodref.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppleMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f948278-70e9-4e93-8065-b4bb5bd30207" name="Changes" comment="" />
+      <created>1649238850435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649238850435</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New class added.">
+      <created>1649240953667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649240953667</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lambda examples class added.">
+      <created>1649241006288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649241006288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Properties file added.">
+      <created>1649241072096</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649241072096</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Predicate examples are added.">
+      <created>1649687014594</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649687014594</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".iml file is added.">
+      <created>1649687049570</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649687049570</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Numeric strem axamples are added.">
+      <created>1650033654410</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650033654410</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Stream collect examples are added.">
+      <created>1650878853887</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650878853887</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New class added." />
+    <MESSAGE value="Lambda examples class added." />
+    <MESSAGE value="Properties file added." />
+    <MESSAGE value="Predicate examples are added." />
+    <MESSAGE value=".iml file is added." />
+    <MESSAGE value="Numeric strem axamples are added." />
+    <MESSAGE value="Stream collect examples are added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream collect examples are added." />
+  </component>
+</project>
